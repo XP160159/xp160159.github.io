@@ -5,6 +5,8 @@ Notes for the day
 
 ## Day 2
 Notes for day 2
+
+
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 
 |------|------------|--------------------------|-------------------|-------------|
