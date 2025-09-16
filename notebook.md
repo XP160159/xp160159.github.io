@@ -9,7 +9,6 @@ Notes for day 2
 [Code Definitions](#code-definitions)
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
-
 |------|------------|--------------------------|-------------------|-------------|
 |Variable| A named container used to store a value that may change. | `var x = 5;` |weight,bank,height|  |
 |Constant| A fixed value that cannot change once set. | `const PI = 3.14;` |year you were born|  |
