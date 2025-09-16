@@ -23,11 +23,11 @@ Notes for day 2
 |Parameter| The information passed into a function to change how it works. | `greet(String name)` |checking ids for a rated R movie|  |
 |Return| The result a function gives back. | `return total;` |what you get back for exmaple buying something you get what you buy or recipt|  |
 |Scope| Where a variable or function can be used. | (No set syntax — concept-based) |for example using a subway card at subway it cant be used at tacobell|  |
-|Class| Blueprint for creating objects with specific structure and behavior. | `class Dog {}` ||  |
-|Object| A specific version of a class. | `Dog myDog = Dog();` |  |  |
-|Property| A variable that belongs to a class/object. | `String name;` |  |  |
-|Method| A function that belongs to a class. | `void bark() {}` |  |  |
-|Constructor| A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-|Abstraction| Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-|Override| Changing how a built-in or inherited function behaves. | `@override` |  |  |
-|Void| A function that does not return a value. | `void printMessage() {}` |  |  |
+|Class| Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |paper has a specific structure and a specific behavior you can crumble it fold it etc it goes for everything|  |
+|Object| A specific version of a class. | `Dog myDog = Dog();` |the object created from the class |  |
+|Property| A variable that belongs to a class/object. | `String name;` |the name for a varible that belongs to a certain/class/object|  |
+|Method| A function that belongs to a class. | `void bark() {}` |a resuable code like jump in a class(blueprint)|  |
+|Constructor| A special function used to set up a class when it’s created. | `Dog(this.name);` |instructions before creating something creating a size,color for a water bottle|  |
+|Abstraction| Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |a car in automatic you dont need to know how its working but makes things simplier|  |
+|Override| Changing how a built-in or inherited function behaves. | `@override` |walk animation then you get hurt and overides into limping animation|  |
+|Void| A function that does not return a value. | `void printMessage() {}` |giving a gift to someone not getting anything back ot turning on the lights theres an action turning them on but nothing returning|  |
