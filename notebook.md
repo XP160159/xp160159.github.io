@@ -10,7 +10,7 @@ Notes for day 2
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
-|Variable| A named container used to store a value that may change. | `var x = 5;` |weight,bank,height|  |
+|Variable| A named container used to store a value that may change. | `var x = 5;` |weight,bank,height|title: 'TSA Portfolio',|
 |Constant| A fixed value that cannot change once set. | `const PI = 3.14;` |year you were born|  |
 |Data Type| The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |if you set everything to a video and tried to load a picture it would not work and the computer would see it as a video|  |
 |String| A sequence of characters used to represent words or text. | `"Hello World"` |in games like username,time,quests,health|  |
@@ -46,8 +46,8 @@ Copy the guided notes below into your notebook
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
+| Widget           |Basic building block of a Flutter app. Everything is a widget.|Text, Image, Container, Column|
+| MaterialApp      |The root of the app. Sets up routes and themes.|                                           |
 | Scaffold         |                                                  |                                           |
 | StatelessWidget  |                                                  |                                           |
 | StatefulWidget   |                                                  |                                           |
